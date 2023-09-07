@@ -25,8 +25,9 @@ namespace GameCenter.Projects
 
         private void ProjectImage_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-            currentProject!.Show();
             Close();
+            currentProject!.ShowDialog();
+            currentProject!.Close();
         }
     }
 }

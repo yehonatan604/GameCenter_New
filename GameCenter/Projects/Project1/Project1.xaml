@@ -58,6 +58,13 @@
                     Height="25"
                     Background="#FF78DA7E" Click="Btn_Add_Click"
                 />
+                <Button 
+                    x:Name="Btn_Remove" 
+                    Content="Remove" 
+                    Width="100"
+                    Height="25"
+                    Background="#FF78DA7E" Click="Btn_Remove_Click"
+                />  
             </StackPanel>
 
 
