@@ -21,4 +21,8 @@
     <Resource Include="Images\square2.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Projects\Project1\Data\" />
+  </ItemGroup>
+
 </Project>

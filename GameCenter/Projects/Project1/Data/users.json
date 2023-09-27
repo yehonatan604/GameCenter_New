@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Bob",
+    "Email": "bob@email.com",
+    "Password": "Qaz123!123Qaz",
+    "Created": "2023-09-27T19:55:57.4190814+03:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Sara",
+    "Email": "Sara@email.com",
+    "Password": "Qaz123!123Qaz",
+    "Created": "2023-09-27T19:55:57.4191186+03:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Abed",
+    "Email": "Abed@email.com",
+    "Password": "Qaz123!123Qaz",
+    "Created": "2023-09-27T19:55:57.419119+03:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Itay",
+    "Email": "itay@email.com",
+    "Password": "Qaz123!123Qaz",
+    "Created": "2023-09-27T19:58:51.7849371+03:00"
+  }
+]
